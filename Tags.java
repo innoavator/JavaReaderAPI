@@ -1,0 +1,10 @@
+
+public enum Tags {
+		STARRED,
+		LIKE,
+		READ,
+		KEPT_UNREAD,
+		DISLIKE,
+		TRACKING_KEPT_UNREAD,
+		BROADCAST
+}
