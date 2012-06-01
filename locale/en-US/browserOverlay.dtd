@@ -1,6 +1,0 @@
-<!ENTITY preader.hello.label            "Hello World!">
-<!ENTITY preader.helloMenu.accesskey    "l">
-<!ENTITY preader.helloItem.accesskey    "H">
-<!ENTITY preader.greet.short.label      "Short Greeting">
-<!ENTITY preader.greet.medium.label     "Medium Greeting">
-<!ENTITY preader.greet.long.label       "Long Greeting">
