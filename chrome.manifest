@@ -1,0 +1,6 @@
+content feedreco content/
+skin feedreco classic/1.0 skin/
+locale feedreco en-US locale/en-US/
+resource modules/
+
+overlay chrome://browser/content/browser.xul chrome://feedreco/content/feedreco_overlay.xul
